@@ -2,7 +2,7 @@
 
 - 🏫 Sou estudante de análise e desenvolvimento de sistemas da faculdade Unicesumar
 - 🔭 Trabalho atualmente como recepcionista para poder pagar minha faculdade e realizar meu sonho de virar programador
-- 🌱 Estou estudando java e desenvolvimento android
+- 🌱 Skills: Java,Kotlin,Desenvolvimento android
 - <div align="center">
   <a href="https://github.com/GiovaniHenriques">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovaniHenriques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
