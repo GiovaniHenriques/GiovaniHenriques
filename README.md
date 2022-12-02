@@ -1,7 +1,6 @@
 ### Olá meu nome é  Giovani Henriques Evangelista 👋
 - 🏫 Sou estudante de análise e desenvolvimento de sistemas da faculdade Unicesumar
-- 🔭 Trabalho atualmente como recepcionista para poder pagar minha faculdade e realizar meu sonho de virar programador
-- 🌱 Skills: Java,Kotlin,Desenvolvimento mobile, Desenvolvimento Web FrontEnd, HTML,CSS,JavaScript,React
+- 🌱 Skills: C#,Asp.Net,APi,Java,HTML,CSS,JavaScript,Mysql,Sql Server,Desenvolvimento Web
 
  <div>
    <a href="https://github.com/GiovaniHenriques">
@@ -13,7 +12,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 </div>
  
  <br>
